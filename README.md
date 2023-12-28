@@ -23,7 +23,7 @@ Créer une application de e-commerce basée sur les micro services :
 - Part 4 : https://www.youtube.com/watch?v=aQRgO2OxC0w
 - Part 5 : https://www.youtube.com/watch?v=iMCjDRUXoeM
 
-  ###Dépendences utilisées ### 
+  ### Dépendences utilisées ### 
 
 - **Spring Boot Starter Actuator** : Active les fonctionnalités prêtes pour la production, telles que les vérifications de santé et les points de surveillance, pour une application Spring Boot.
 - **Spring Boot Starter Web** : Fournit des composants essentiels pour la construction d'applications web avec Spring MVC.
